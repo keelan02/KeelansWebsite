@@ -82,7 +82,6 @@ const ProjectDetail = () => {
     playsInline
   />
 )}
-/>
           </div>
           
           <div className="flex flex-col">
