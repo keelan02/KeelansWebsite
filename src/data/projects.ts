@@ -3,7 +3,7 @@ import { Project } from "../components/VideoCard";
 export const projects: Project[] = [
   {
     id: 1,
-    title: "Motion Design / Montage – Salon du Vin Bio (avril 2025)",
+    title: "Motion Design / Montage – Salon du Vin Bio (Avril 2025)",
     thumbnailUrl: "/public/CORPO.png",
     videoUrl: "https://www.youtube.com/embed/P2AMwvmwIt8",
     description: "Montage d’archives et création graphique d’un verre de vin modélisé sur Illustrator, puis animé sur After Effects. J'ai également animé les éléments graphiques (logo, dessin) fournis par le client."
@@ -38,7 +38,7 @@ export const projects: Project[] = [
   },
   {
     id: 6,
-    title: "Montage VFX / Montage en binôme sur le film PERCHÉ de Thibault Carrere (mai 2023) ",
+    title: "Montage VFX / Montage en binôme sur le film PERCHÉ de Thibault Carrere (Mai 2023) ",
     thumbnailUrl: "/public/PERCHE.png",
     videoUrl: "https://www.youtube.com/embed/tJM_loO09LQ",
     description: "Dans le cadre scolaire d’un projet interfiliaire fiction en deuxième année post-production, j’ai travaillé en binôme sur le montage du court-métrage Perché, réalisé par un camarade. J’ai également proposé et intégré des effets VFX, notamment un générique de fin avec un effet de fumée créé sur After Effects."
