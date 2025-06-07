@@ -17,24 +17,24 @@ export const projects: Project[] = [
   },
   {
     id: 3,
-    title: "Motion Designer pour une vidéo promo d’un single musical (Mai 2023)",
-    thumbnailUrl: "/SPIE.png",
-    videoUrl: "https://www.youtube.com/embed/V6wMLfa8fOM",
-    description: "À partir de la pochette illustrée du single, j'ai détouré l'image et animé l'ensemble sur After Effects."
-  },
-  {
-    id: 4,
     title: "Monteur / Cadreur pour le clip expérimental de l'artiste PLUCKY (Février- Avril 2024)",
     thumbnailUrl: "/PLUCKY.png",
     videoUrl: "https://www.youtube.com/embed/ybCUJTtaC6M",
     description: "Pendant mon stage chez Orfilm à Paris, j’ai profité de mon temps libre pour réaliser un clip expérimental pour un ami artiste, Plucky. J’ai tourné avec mon Sony Alpha 7 III une série de plans variés, que j’ai ensuite montés sur Premiere Pro et After Effects."
   },
   {
-    id: 5,
+    id: 4,
     title: "Montage style Publicitaire pour un TD sur Avid Media Composer (Février 2024)",
     thumbnailUrl: "/AVID.png",
     videoUrl: "https://www.youtube.com/embed/mmtYWsbTCA4",
-    description: "Un court-métrage expérimental qui combine danse contemporaine et effets visuels pour créer une méditation sur le mouvement urbain. Tourné en noir et blanc avec des accents de traitement numérique, ce projet repousse les frontières entre le cinéma traditionnel et l'art vidéo."
+    description: "Monté dans le cadre d’un TD en 3ᵉ année de post-production à l’ESEC Lyon, à partir de rushs expérimentaux issus de la filière image des années précédentes. Inspiré par l’esthétique des clips publicitaires musicaux. Réalisé sur Avid Media Composer."
+  },
+  {
+    id: 5,
+    title: "Motion Designer pour une vidéo promo d’un single musical (Mai 2023)",
+    thumbnailUrl: "/SPIE.png",
+    videoUrl: "https://www.youtube.com/embed/V6wMLfa8fOM",
+    description: "À partir de la pochette illustrée du single, j'ai détouré l'image et animé l'ensemble sur After Effects."
   },
   {
     id: 6,
