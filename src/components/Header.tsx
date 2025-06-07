@@ -24,7 +24,7 @@ const Header = () => {
 
         <div className="flex space-x-4">
           <a
-            href="https://www.instagram.com/exxo_dus/"
+            href="https://www.instagram.com/exxo_kaki/"
             target="_blank"
             rel="noopener noreferrer"
             className="p-2 rounded-full bg-black text-white hover:opacity-80 transition-opacity"
