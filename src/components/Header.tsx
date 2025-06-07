@@ -9,7 +9,7 @@ const Header = () => {
         <div className="flex items-center gap-5">
           <div className="rounded-full overflow-hidden w-16 h-16 md:w-20 md:h-20 flex-shrink-0">
             <img
-              src="/public/image.png"
+              src="/image.png"
               alt="Keelan Keohane"
               className="w-full h-full object-cover"
             />
