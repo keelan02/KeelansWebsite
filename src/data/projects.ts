@@ -18,7 +18,7 @@ export const projects: Project[] = [
   {
     id: 3,
     title: "Cadreur & monteur – Concert du groupe Chrysalide ",
-    thumbnailUrl: "/CHRYSALIDE",
+    thumbnailUrl: "/CHRYSALIDE.png",
     videoUrl: "https://www.youtube.com/embed/BUI5faDoHFY",
     description: "Captation live d’un groupe indépendant réalisée avec un Sony A7III, suivie d’une post-production complète incluant l’étalonnage avec LUT personnalisée, le montage, le mixage audio, ainsi que l’export d’extraits promotionnels destinés à la communication du groupe."
   },
