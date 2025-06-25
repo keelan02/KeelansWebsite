@@ -3,7 +3,7 @@ import { Project } from "../components/VideoCard";
 export const projects: Project[] = [
   {
     id: 1,
-    title: "Cadreur, monteur, réalisateur Vidéo promotionnelle pour l’entreprise Würth (juin 2025)",
+    title: "Cadreur, monteur, réalisateur — Exercice de vidéo promotionnelle pour l’entreprise Würth (juin 2025)",
     thumbnailUrl: "/WURTH.png",
     videoUrl: "https://www.youtube.com/embed/vCDD3BCEHOU",
     description: "Sélectionné parmi 20 candidats sur 100 par une agence d’alternance, j’ai été chargé de concevoir une vidéo promotionnelle originale pour l’entreprise Würth, à réaliser en 3 jours. Le défi : produire une vidéo verticale, au format réseaux sociaux, de 30 secondes maximum, mettant en valeur les valeurs et l’impact de la marque, sans montrer directement les produits. J’ai imaginé le concept, organisé la session tournage, cadré les plans, monté la vidéo et assuré l’export pour un rendu adapté aux réseaux sociaux."
