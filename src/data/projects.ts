@@ -6,14 +6,14 @@ export const projects: Project[] = [
     title: "Cadreur, monteur, réalisateur – vidéo promotionnelle pour la startup Kosmolab (juillet 2025)",
     thumbnailUrl: "/KOSMOLAB.png",
     videoUrl: "https://www.youtube.com/embed/-DqwSAOW5p0",
-    description: "Sélectionné parmi 20 candidats sur 100 par une agence d’alternance, j’ai été chargé de concevoir une vidéo promotionnelle originale pour l’entreprise Würth, à réaliser en 3 jours. Le défi : produire une vidéo verticale, au format réseaux sociaux, de 30 secondes maximum, mettant en valeur les valeurs et l’impact de la marque, sans montrer directement les produits. J’ai imaginé le concept, organisé la session tournage, cadré les plans, monté la vidéo et assuré l’export pour un rendu adapté aux réseaux sociaux."
+    description: "J'ai écrit, réalisé, cadré et monté une vidéo promotionnelle destinée aux réseaux sociaux pour Kosmolab, une startup innovante. Le projet a été entièrement mené sur un week-end, de la conception à la post-production."
   },
   {
     id: 2,
     title: "Cadreur, monteur, réalisateur — Exercice de vidéo promotionnelle pour l’entreprise Würth (juin 2025)",
     thumbnailUrl: "/WURTH.png",
     videoUrl: "https://www.youtube.com/embed/vCDD3BCEHOU",
-    description: "J'ai écrit, réalisé, cadré et monté une vidéo promotionnelle destinée aux réseaux sociaux pour Kosmolab, une startup innovante. Le projet a été entièrement mené sur un week-end, de la conception à la post-production."
+    description: "Sélectionné parmi 20 candidats sur 100 par une agence d’alternance, j’ai été chargé de concevoir une vidéo promotionnelle originale pour l’entreprise Würth, à réaliser en 3 jours. Le défi : produire une vidéo verticale, au format réseaux sociaux, de 30 secondes maximum, mettant en valeur les valeurs et l’impact de la marque, sans montrer directement les produits. J’ai imaginé le concept, organisé la session tournage, cadré les plans, monté la vidéo et assuré l’export pour un rendu adapté aux réseaux sociaux."
   },
   {
     id: 3,
